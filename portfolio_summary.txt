@@ -1,0 +1,9 @@
+--- Investment Summary ---
+APL1 share * $57 =$57 
+GPS2 share * $89 =$178 
+ORG3 share * $56 =$168 
+BNA4 share * $67 =$268 
+WTM1 share * $79 =$79 
+MST2 share * $48 =$96 
+
+Total Investment: $846
